@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmartinbz
 - 👀 I’m interested in Anything Computer 
 - 🌱 I’m currently learning whatever anyone is willing to teach computer base
-- 💞️ I’m looking to collaborate on who every wants to work on the next big thing
+- 💞️ I’m looking to collaborate with who every wants to work on the next big thing
 - 📫 How to reach me tremaine.m700@gmail.com
 
 <!---
